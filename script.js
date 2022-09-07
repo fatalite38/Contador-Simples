@@ -24,9 +24,3 @@ addEventListener("click", function() {
         document.getElementById("currentNumber").style.color = 'blue';
     }
 })
-
-/*addEventListener("click", function() {
-    if (currentNumber == 0) {
-    document.getElementById("currentNumber").style.color = 'black';
-    }
-})*/
